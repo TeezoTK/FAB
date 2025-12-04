@@ -92,14 +92,7 @@ export const Footer: React.FC = () => {
               >
                 <i className="ri-facebook-fill text-xl"></i>
               </a>
-              <a 
-                href="https://readdy.ai/?origin=logo"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-white/60 hover:text-[#F97316] transition-colors text-sm cursor-pointer"
-              >
-                Website Builder
-              </a>
+              
             </div>
           </div>
         </div>
